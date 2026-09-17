@@ -12,7 +12,7 @@
 
 ## Overview
 
-A simple Windows network diagnostics and repair toolkit built with Batch.
+A simple Windows network diagnostics and repair toolkit built with Batch files.
 
 ## Features
 
