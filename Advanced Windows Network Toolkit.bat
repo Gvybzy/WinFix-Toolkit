@@ -1,5 +1,5 @@
 @echo off
-setlocal EnableDelayedExpansion
+setlocal
 :: ==========================================
 :: Advanced Windows Network Toolkit
 :: Personal Use Edition
